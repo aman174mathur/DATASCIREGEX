@@ -1,0 +1,11 @@
+student_name,student_id,student_stream,fee_structure,semester
+sam,101,maths,1000,1
+john,102,biology,2000,2
+jane,103,humanities,3000,3
+jack,104,maths,1000,1
+jill,105,biology,2000,2
+ram,106,humanities,3000,3
+sham,107,maths,1000,1
+sam,108,biology,2000,2
+john,109,humanities,3000,3
+jane,110,maths,1000,1
